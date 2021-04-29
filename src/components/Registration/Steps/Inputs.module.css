@@ -1,0 +1,15 @@
+.inputStyle{
+    width: 90vw;
+    max-width: 600px;
+}
+.buttonsStyle{
+    padding: 10px;
+}
+
+.error{
+    border-bottom: 1px solid indianred;
+}
+
+.errorMess{
+    color: indianred;
+}
